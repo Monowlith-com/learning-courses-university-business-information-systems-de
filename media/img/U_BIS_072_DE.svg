@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="58" font-size="29" font-weight="bold">Gestufte Releases und Fehlerbudgets</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<rect x="48" y="116" width="1104" height="55" fill="#f0f1f2" stroke="#aeb6be"/>
+<text x="60.0" y="150.5" font-size="22" font-weight="bold">Gruppe</text>
+<path d="M324.0 116 v55" stroke="#aeb6be"/>
+<text x="336.0" y="150.5" font-size="22" font-weight="bold">Anfragen</text>
+<path d="M600.0 116 v55" stroke="#aeb6be"/>
+<text x="612.0" y="150.5" font-size="22" font-weight="bold">Fehler</text>
+<path d="M876.0 116 v55" stroke="#aeb6be"/>
+<text x="888.0" y="150.5" font-size="22" font-weight="bold">Fehlerquote</text>
+<rect x="48" y="171" width="1104" height="55" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="205.5" font-size="22" >Canary</text>
+<path d="M324.0 171 v55" stroke="#aeb6be"/>
+<text x="336.0" y="205.5" font-size="22" >10.000</text>
+<path d="M600.0 171 v55" stroke="#aeb6be"/>
+<text x="612.0" y="205.5" font-size="22" >200</text>
+<path d="M876.0 171 v55" stroke="#aeb6be"/>
+<text x="888.0" y="205.5" font-size="22" >2 %</text>
+<rect x="48" y="226" width="1104" height="55" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="260.5" font-size="22" >Kontrolle</text>
+<path d="M324.0 226 v55" stroke="#aeb6be"/>
+<text x="336.0" y="260.5" font-size="22" >90.000</text>
+<path d="M600.0 226 v55" stroke="#aeb6be"/>
+<text x="612.0" y="260.5" font-size="22" >90</text>
+<path d="M876.0 226 v55" stroke="#aeb6be"/>
+<text x="888.0" y="260.5" font-size="22" >0,1 %</text>
+<rect x="48" y="281" width="1104" height="55" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="315.5" font-size="22" >Neuer Versuch</text>
+<path d="M324.0 281 v55" stroke="#aeb6be"/>
+<text x="336.0" y="315.5" font-size="22" >5.000</text>
+<path d="M600.0 281 v55" stroke="#aeb6be"/>
+<text x="612.0" y="315.5" font-size="22" >15</text>
+<path d="M876.0 281 v55" stroke="#aeb6be"/>
+<text x="888.0" y="315.5" font-size="22" >0,3 %</text>
+</g></svg>

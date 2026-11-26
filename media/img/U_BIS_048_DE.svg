@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="55" font-size="30" font-weight="bold">Gewinn auf der Kapazitätsgrenze x + y = 6</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<path d="M115 338 L685 338" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="99" y="344" font-size="18" fill="#20252b" text-anchor="end">20</text>
+<path d="M115 288 L685 288" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="99" y="294" font-size="18" fill="#20252b" text-anchor="end">25</text>
+<path d="M115 238 L685 238" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="99" y="244" font-size="18" fill="#20252b" text-anchor="end">30</text>
+<path d="M115 188 L685 188" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="99" y="194" font-size="18" fill="#20252b" text-anchor="end">35</text>
+<path d="M115 138 L685 138" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="99" y="144" font-size="18" fill="#20252b" text-anchor="end">40</text>
+<path d="M115 338 L115 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="115" y="370" font-size="18" fill="#20252b" text-anchor="middle">0</text>
+<path d="M210 338 L210 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="210" y="370" font-size="18" fill="#20252b" text-anchor="middle">1</text>
+<path d="M305 338 L305 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="305" y="370" font-size="18" fill="#20252b" text-anchor="middle">2</text>
+<path d="M400 338 L400 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="400" y="370" font-size="18" fill="#20252b" text-anchor="middle">3</text>
+<path d="M495 338 L495 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="495" y="370" font-size="18" fill="#20252b" text-anchor="middle">4</text>
+<path d="M590 338 L590 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="590" y="370" font-size="18" fill="#20252b" text-anchor="middle">5</text>
+<path d="M685 338 L685 345" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="685" y="370" font-size="18" fill="#20252b" text-anchor="middle">6</text>
+<path d="M115 108 L115 338" stroke="#46515b" stroke-width="2" fill="none" />
+<path d="M115 338 L685 338" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="115" y="100" font-size="19" fill="#20252b" text-anchor="start">Gewinn</text>
+<text x="685" y="400" font-size="19" fill="#20252b" text-anchor="end">Menge x</text>
+<polyline points="115.0,298.0 124.5,290.1 134.0,282.4 143.5,274.9 153.0,267.6 162.5,260.5 172.0,253.6 181.5,246.9 191.0,240.4 200.5,234.1 210.0,228.0 219.5,222.1 229.0,216.4 238.5,210.9 248.0,205.6 257.5,200.5 267.0,195.6 276.5,190.9 286.0,186.4 295.5,182.1 305.0,178.0 314.5,174.1 324.0,170.4 333.5,166.9 343.0,163.6 352.5,160.5 362.0,157.6 371.5,154.9 381.0,152.4 390.5,150.1 400.0,148.0 409.5,146.1 419.0,144.4 428.5,142.9 438.0,141.6 447.5,140.5 457.0,139.6 466.5,138.9 476.0,138.4 485.5,138.1 495.0,138.0 504.5,138.1 514.0,138.4 523.5,138.9 533.0,139.6 542.5,140.5 552.0,141.6 561.5,142.9 571.0,144.4 580.5,146.1 590.0,148.0 599.5,150.1 609.0,152.4 618.5,154.9 628.0,157.6 637.5,160.5 647.0,163.6 656.5,166.9 666.0,170.4 675.5,174.1 685.0,178.0" stroke="#326d99" stroke-width="4" fill="none"/>
+<path d="M495 138 L495 338" stroke="#68747c" stroke-width="2" fill="none" stroke-dasharray="5 5"/>
+<circle cx="495" cy="138" r="7" fill="#b8833c"/>
+<text x="750" y="158" font-size="25" fill="#20252b" text-anchor="start">G(x, 6 − x)</text>
+<text x="750" y="196" font-size="25" fill="#20252b" text-anchor="start">= 24 + 8x − x²</text>
+<text x="750" y="252" font-size="24" fill="#20252b" text-anchor="start">Maximum: x = 4, y = 2</text>
+<text x="750" y="289" font-size="23" fill="#20252b" text-anchor="start">G = 40</text>
+<text x="750" y="337" font-size="20" fill="#20252b" text-anchor="start">0 ≤ x ≤ 6</text>
+</g></svg>

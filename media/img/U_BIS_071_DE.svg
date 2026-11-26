@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="58" font-size="29" font-weight="bold">Schrittweise Modernisierung von Altsystemen</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<rect x="48" y="116.0" width="1104" height="48.0" fill="#f0f1f2" stroke="#aeb6be"/>
+<text x="60.0" y="147.0" font-size="22" font-weight="bold">Variante</text>
+<path d="M324.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="147.0" font-size="22" font-weight="bold">Einmalig (T€)</text>
+<path d="M600.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="147.0" font-size="22" font-weight="bold">Parallel (Mon.)</text>
+<path d="M876.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="147.0" font-size="22" font-weight="bold">Gesamt (T€)</text>
+<rect x="48" y="164.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="195.0" font-size="22" >Komplett</text>
+<path d="M324.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="195.0" font-size="22" >180</text>
+<path d="M600.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="195.0" font-size="22" >0</text>
+<path d="M876.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="195.0" font-size="22" >372</text>
+<rect x="48" y="212.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="243.0" font-size="22" >Schrittweise</text>
+<path d="M324.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="243.0" font-size="22" >120</text>
+<path d="M600.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="243.0" font-size="22" >6</text>
+<path d="M876.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="243.0" font-size="22" >348</text>
+<rect x="48" y="260.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="291.0" font-size="22" >Verzögert</text>
+<path d="M324.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="291.0" font-size="22" >120</text>
+<path d="M600.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="291.0" font-size="22" >10</text>
+<path d="M876.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="291.0" font-size="22" >372</text>
+<rect x="48" y="308.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="339.0" font-size="22" >Alternative</text>
+<path d="M324.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="339.0" font-size="22" >120</text>
+<path d="M600.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="339.0" font-size="22" >12</text>
+<path d="M876.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="339.0" font-size="22" >384</text>
+</g></svg>

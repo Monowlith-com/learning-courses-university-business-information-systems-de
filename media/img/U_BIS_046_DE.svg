@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="55" font-size="30" font-weight="bold">Gewichtete Kapitalkosten</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<text x="48" y="125" font-size="27" fill="#20252b" text-anchor="start">WACC = 6,0 % + 1,5 % = 7,5 %</text>
+<rect x="70" y="178" width="800" height="84" fill="#326d99"/>
+<rect x="870" y="178" width="200" height="84" fill="#b8833c"/>
+<text x="470" y="229" font-size="28" fill="#fff" text-anchor="middle">6,0 %</text>
+<text x="970" y="229" font-size="28" fill="#fff" text-anchor="middle">1,5 %</text>
+<text x="70" y="300" font-size="21" fill="#20252b" text-anchor="start">Eigenkapital: 60 % × 10 %</text>
+<text x="70" y="338" font-size="21" fill="#20252b" text-anchor="start">Fremdkapital: 40 % × 5 % × (1 − 25 %)</text>
+<text x="70" y="384" font-size="18" fill="#20252b" text-anchor="start">Balkenlänge: Anteil am WACC (nicht am Kapital)</text>
+</g></svg>

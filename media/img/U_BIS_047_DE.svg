@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="55" font-size="30" font-weight="bold">Produktionsmöglichkeiten bei 36 Arbeitsstunden</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<path d="M115 340 L715 340" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="98" y="346" font-size="18" fill="#20252b" text-anchor="end">0</text>
+<path d="M115 268 L715 268" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="98" y="274" font-size="18" fill="#20252b" text-anchor="end">3</text>
+<path d="M115 196 L715 196" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="98" y="202" font-size="18" fill="#20252b" text-anchor="end">6</text>
+<path d="M115 124 L715 124" stroke="#d8dde2" stroke-width="1" fill="none" />
+<text x="98" y="130" font-size="18" fill="#20252b" text-anchor="end">9</text>
+<path d="M115 340 L115 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="115" y="370" font-size="18" fill="#20252b" text-anchor="middle">0</text>
+<path d="M211 340 L211 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="211" y="370" font-size="18" fill="#20252b" text-anchor="middle">3</text>
+<path d="M307 340 L307 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="307" y="370" font-size="18" fill="#20252b" text-anchor="middle">6</text>
+<path d="M403 340 L403 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="403" y="370" font-size="18" fill="#20252b" text-anchor="middle">9</text>
+<path d="M499 340 L499 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="499" y="370" font-size="18" fill="#20252b" text-anchor="middle">12</text>
+<path d="M595 340 L595 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="595" y="370" font-size="18" fill="#20252b" text-anchor="middle">15</text>
+<path d="M691 340 L691 346" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="691" y="370" font-size="18" fill="#20252b" text-anchor="middle">18</text>
+<path d="M115 112 L115 340" stroke="#46515b" stroke-width="2" fill="none" />
+<path d="M115 340 L715 340" stroke="#46515b" stroke-width="2" fill="none" />
+<text x="115" y="103" font-size="19" fill="#20252b" text-anchor="start">Berichte</text>
+<text x="715" y="399" font-size="19" fill="#20252b" text-anchor="end">Tests</text>
+<path d="M115 124 L691 340" stroke="#326d99" stroke-width="4" fill="none" />
+<path d="M115 244 L499 340" stroke="#b8833c" stroke-width="4" fill="none" />
+<path d="M800 155 L856 155" stroke="#326d99" stroke-width="4" fill="none" />
+<text x="870" y="161" font-size="22" fill="#20252b" text-anchor="start">Team A</text>
+<text x="800" y="199" font-size="20" fill="#20252b" text-anchor="start">1 Test = 1/2 Bericht</text>
+<path d="M800 244 L856 244" stroke="#b8833c" stroke-width="4" fill="none" />
+<text x="870" y="250" font-size="22" fill="#20252b" text-anchor="start">Team B</text>
+<text x="800" y="288" font-size="20" fill="#20252b" text-anchor="start">1 Test = 1/3 Bericht</text>
+<text x="800" y="335" font-size="17" fill="#20252b" text-anchor="start">B: geringere relative Testkosten</text>
+</g></svg>

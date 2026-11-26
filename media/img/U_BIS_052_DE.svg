@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="#fff"/>
+<g font-family="DejaVu Sans, sans-serif" fill="#20252b">
+<text x="48" y="58" font-size="29" font-weight="bold">Verteilte Systeme und Idempotenz</text>
+<path d="M48 80 H1152" stroke="#b8bfc6" stroke-width="2"/>
+<rect x="48" y="116.0" width="1104" height="48.0" fill="#f0f1f2" stroke="#aeb6be"/>
+<text x="60.0" y="147.0" font-size="22" font-weight="bold">Anfrage</text>
+<path d="M324.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="147.0" font-size="22" font-weight="bold">Betrag</text>
+<path d="M600.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="147.0" font-size="22" font-weight="bold">Ergebnis</text>
+<path d="M876.0 116.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="147.0" font-size="22" font-weight="bold">Gesamtsumme</text>
+<rect x="48" y="164.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="195.0" font-size="22" >K17</text>
+<path d="M324.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="195.0" font-size="22" >40 €</text>
+<path d="M600.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="195.0" font-size="22" >Neu</text>
+<path d="M876.0 164.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="195.0" font-size="22" >40 €</text>
+<rect x="48" y="212.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="243.0" font-size="22" >K17 (Retry)</text>
+<path d="M324.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="243.0" font-size="22" >40 €</text>
+<path d="M600.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="243.0" font-size="22" >Vorhanden</text>
+<path d="M876.0 212.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="243.0" font-size="22" >40 €</text>
+<rect x="48" y="260.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="291.0" font-size="22" >K18</text>
+<path d="M324.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="291.0" font-size="22" >25 €</text>
+<path d="M600.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="291.0" font-size="22" >Neu</text>
+<path d="M876.0 260.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="291.0" font-size="22" >65 €</text>
+<rect x="48" y="308.0" width="1104" height="48.0" fill="#fff" stroke="#aeb6be"/>
+<text x="60.0" y="339.0" font-size="22" >K17 (abweichend)</text>
+<path d="M324.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="336.0" y="339.0" font-size="22" >50 €</text>
+<path d="M600.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="612.0" y="339.0" font-size="22" >Konflikt</text>
+<path d="M876.0 308.0 v48.0" stroke="#aeb6be"/>
+<text x="888.0" y="339.0" font-size="22" >65 €</text>
+</g></svg>
